@@ -1,0 +1,28 @@
+* {
+    background-color: aquamarine;
+} 
+h1{
+    color:burlywood;
+    background-color: aqua;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+
+}
+p{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+
+}
+.header {
+    background-color: aqua;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#botton {
+    background-color: cornsilk;
+    color: red;
+    border-radius: 10px;
+
+}
